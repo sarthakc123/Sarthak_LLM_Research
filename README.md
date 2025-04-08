@@ -97,6 +97,6 @@ MIT License — feel free to fork and build upon this!
 
 ## ✍️ Author
 
-**Sarthak [Your Last Name]**  
+**Sarthak Chandarana**  
 LLM Systems Researcher  
 Find me on GitHub or LinkedIn for questions or collaborations!
