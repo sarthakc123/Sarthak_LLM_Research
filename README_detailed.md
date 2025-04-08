@@ -147,6 +147,6 @@ MIT License – free to use, remix, or adapt for research or learning.
 
 ## 👤 Author
 
-**Sarthak [Last Name]**  
+**Sarthak Chandarana**  
 LLM Evaluation | Open-Source Researcher  
-GitHub: [your-handle] | LinkedIn: [your-link]
+GitHub: sarthakc123 | LinkedIn: sarthak-chandarana123
